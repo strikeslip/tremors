@@ -1,12 +1,8 @@
-# LACMA David Geffen Galleries — Seismic Musification
-## TROJAN TREMORS // OasisPlus Data Pipeline Reference
-
-*Kinemetrics OasisPlus: https://www.oasisplus.kmi.com/* <br>
-*SOM / LACMA Unframed: https://unframed.lacma.org/2022/02/16/earthquakes-sliders-and-art*
+# Base Isolation System - Seismic Musification
 
 ---
 
-## 1. Building Specs
+## 1. LACMA David Geffen Galleries Building Specs
 
 - **Structure:** 900-foot monolithic elevated concrete slab
 - **Isolators:** 56 Triple Friction Pendulum (TFP) bearings in specialized pits
@@ -118,4 +114,54 @@ SAFE Reports include raw engineering data exportable to structural analysis part
 - Target outputs: Holosonics parametric speakers (gallery), periodic Seismic Sound Baths, continuous live stream at allshookup.org
 
 ---
+
+## 9. Extractable Data Types
+
+The Geffen Galleries sit on a seismic base isolation system. The isolators — Triple Friction Pendulum (TFP) bearings — generate continuous structural data during any seismic event or ambient vibration.
+
+| Data Metric | Description |
+|---|---|
+| **Vibration & Acceleration** | High-frequency accelerations; audified by shifting into audible range |
+| **Horizontal Displacement** | Lateral sway/sliding distance of each isolator |
+| **Natural Frequency (Period)** | Isolation lengthens building period; represents as downward pitch slide |
+| **Damping & Energy Dissipation** | Kinetic energy → heat (hysteresis); maps to timbre or "grainy" texture |
+| **Structural Health Indicators** | Long-term strain, material degradation, corrosion anomalies |
+
+**Analysis focus areas:**
+
+- **Period Lengthening** — structural period shifts away from high-energy earthquake ranges
+- **Acceleration Reduction** — up to 80%+ reduction in horizontal X/Y directions
+- **Isolator Displacement** — large horizontal displacements at isolation level
+
+---
+
+## 10. Mapping Data to Sound
+
+| Data Metric | Sound Attribute | Interpretation |
+|---|---|---|
+| Peak Acceleration | Loudness (Velocity) | Intensity of seismic force |
+| Spectral Frequency | Pitch (Note Number) | Higher freq (stiffer response) = higher pitch |
+| Temporal Displacement | Rhythm / Panning | Stereo pan represents spatial movement of building base |
+| Damping Ratio | Decay / Timbre | Faster decay = higher damping, more energy absorption |
+
+---
+
+## 11. Why Granular Synthesis
+
+Granular synthesis is the correct sonification method for base isolation data — not simple pitch-shifting. It captures the mechanical grinding or sliding nature of a Friction Pendulum System.
+
+**The mapping logic:**
+
+- **Seismic Displacement → Grain Position** — as the isolator slides further from center, the grain pointer moves deeper into the source sample
+- **Acceleration (G-force) → Grain Density** — higher shaking intensity triggers more grains per second, creating a denser, more chaotic texture
+- **Damping Ratio → Grain Envelope (Duration/Decay)** — high damping creates short, plucky grains; low damping creates long, overlapping, blurred grains
+
+---
+
+TROJAN TREMORS // OasisPlus Data Pipeline Reference
+
+Kinemetrics OasisPlus: https://www.oasisplus.kmi.com/ <br>
+SOM / LACMA Unframed: https://unframed.lacma.org/2022/02/16/earthquakes-sliders-and-art
+
+
 
