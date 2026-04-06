@@ -1,7 +1,7 @@
 # LACMA David Geffen Galleries — Seismic Musification
 ## TROJAN TREMORS // OasisPlus Data Pipeline Reference
 
-*Kinemetrics OasisPlus: https://www.oasisplus.kmi.com/*
+*Kinemetrics OasisPlus: https://www.oasisplus.kmi.com/* <br>
 *SOM / LACMA Unframed: https://unframed.lacma.org/2022/02/16/earthquakes-sliders-and-art*
 
 ---
@@ -119,4 +119,3 @@ SAFE Reports include raw engineering data exportable to structural analysis part
 
 ---
 
-*Confirm OasisPlus API access with Kinemetrics / LACMA Facilities prior to April 22 submission.*
