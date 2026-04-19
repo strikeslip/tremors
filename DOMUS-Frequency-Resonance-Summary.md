@@ -1,7 +1,9 @@
 # DOMUS — Frequency & Resonance Summary
 
 **Document:** D.V. Rogers, November 2016. Hexagonal seismic-isolated experimental space, Silverlake LA.<br>
-REF: https://github.com/strikeslip/research/blob/main/notae/DOMUS-NIMBUS-REBUILD.pdf
+REF: [notae/DOMUS/DOMUS-NIMBUS-REBUILD.pdf](https://github.com/strikeslip/research/blob/main/notae/DOMUS/DOMUS-NIMBUS-REBUILD.pdf)
+
+
 
 ---
 
